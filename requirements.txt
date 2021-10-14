@@ -1,0 +1,5 @@
+tensorflow>=2.0
+pandas
+numpy
+urllib3
+sklearn
